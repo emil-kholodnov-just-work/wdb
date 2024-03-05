@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.9-slim
 
 ARG WDB_VERSION="3.3.0"
 
